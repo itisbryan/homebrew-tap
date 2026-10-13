@@ -1,9 +1,9 @@
 class Paracli < Formula
   desc "Draft and submit Parabol daily standups from git activity"
   homepage "https://github.com/itisbryan/paracli"
-  url "https://github.com/itisbryan/paracli/archive/refs/tags/v0.1.2.tar.gz"
-  version "0.1.2"
-  sha256 "2f83a47b2b195c0be33e584e2065ad4e645acfc36ea1a372dc969c8516331f21"
+  url "https://github.com/itisbryan/paracli/archive/refs/tags/v0.1.3.tar.gz"
+  version "0.1.3"
+  sha256 "20a8254cdc1ebb31360b500570e193ee1c55f68222536ffa8b7a049de1a75250"
   license "MIT"
   head "https://github.com/itisbryan/paracli.git", branch: "main"
 
